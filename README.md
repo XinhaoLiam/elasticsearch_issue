@@ -23,3 +23,4 @@ curl -XPOST -H "Content-Type: application/json" http://localhost:9200/try-0001/_
 
 1. docker == 20.10.7
 2. Elasticsearch == 7.16.3
+3. System: Amazon Linux 2 AMI
